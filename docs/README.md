@@ -95,4 +95,5 @@ O código foi comentado para facilitar a personalização:
 **Vinícius Riter de Faria**
 
 *Projeto desenvolvido para a disciplina de Desenvolvimento Front-End Para Web.*
+
 *Algumas imagens foram geradas por IA e outras baixadas de svgrepo.com*
