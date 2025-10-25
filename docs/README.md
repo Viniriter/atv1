@@ -56,6 +56,7 @@ O projeto está organizado da seguinte forma:
 |   |-- projeto2.jpg
 |   |-- projeto3.jpg
 |   |-- certificado.jpg
+|   |-- voluntario.jpg
 |
 |-- /assets/
 |   |-- /icons/
