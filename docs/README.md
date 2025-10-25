@@ -71,7 +71,7 @@ O projeto está organizado da seguinte forma:
 
 ### Localmente
 
-1.  Clone este repositório: `git clone https://github.com/seu-usuario/seu-repositorio.git`
+1.  Clone este repositório: `git clone https://github.com/Viniriter/atv1`
 2.  Navegue até a pasta do projeto.
 3.  Abra o arquivo `index.html` em seu navegador de preferência.
 
@@ -84,7 +84,6 @@ O projeto pode ser visualizado online através do GitHub Pages. Após fazer o pu
 ## 🎨 Personalização
 
 O código foi comentado para facilitar a personalização:
--   **Nome da ONG:** Procure por `<!-- Altere o nome da ONG aqui -->` nos arquivos HTML para alterar o nome da organização.
 -   **Cores e Fontes:** As cores primárias, secundárias e a fonte principal podem ser facilmente alteradas no início do arquivo `css/style.css`, na seção `:root`.
 -   **Imagens:** Substitua as imagens na pasta `/img/` mantendo os nomes dos arquivos ou atualize os caminhos nos arquivos HTML correspondentes.
 
@@ -95,4 +94,4 @@ O código foi comentado para facilitar a personalização:
 **Vinícius Riter de Faria**
 
 *Projeto desenvolvido para a disciplina de Desenvolvimento Front-End Para Web.*
-
+*Algumas imagens foram geradas por IA e outras baixadas de svgrepo.com*
