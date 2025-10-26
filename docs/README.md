@@ -12,11 +12,10 @@ O site foi projetado para ser uma ferramenta de divulgação de projetos, capta�
 
 -   **Estrutura Semântica:** Uso correto de tags HTML5 (`<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`, etc.) para melhor SEO e acessibilidade.
 -   **Páginas Integradas:**
-    -   **Início:** Apresentação da ONG, missão, visão, valores e um banner de destaque.
+    -   **Início:** Apresentação da ONG, missão, visão, valores e um banner de destaque e contato.
     -   **Projetos:** Galeria de projetos sociais com descrição e imagens.
     -   **Voluntários:** Seção para engajamento, com oportunidades e depoimentos.
     -   **Cadastro:** Formulário completo com validação nativa utilizando atributos do HTML5.
-    -   **Contato:** Informações institucionais, formulário de contato e mapa de localização.
 
 ---
 
